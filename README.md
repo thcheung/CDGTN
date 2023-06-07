@@ -14,4 +14,4 @@ Extract the zip file and place the folder in preprocessed/CR_Twitter/
 
 The model checkpoints can be found in the releases [here](https://github.com/thcheung/CDGTN/releases/tag/checkpoint).
 
-Download the checkpoint and place in into folder checkpoints/CDGTN_CR_Twitter_0_0/
+Download the checkpoint and place it into folder checkpoints/CDGTN_CR_Twitter_0_0/
