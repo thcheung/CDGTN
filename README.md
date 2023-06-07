@@ -7,6 +7,8 @@ The growth in social media has led to the increasing spread of unverified or fal
 ## Datasets
 The extended CR-Twitter can be downloaded below. Password is: CDGTN2023.
 
+Extract the zip file and place the folder in preprocessed/CR_Twitter
+
 - [Extended CR-Twitter Dataset](https://connectpolyu-my.sharepoint.com/:u:/g/personal/15083269d_connect_polyu_hk/EdUFxIS-Ea9Igvk6ddku93wBxPYSehGT3OWAb3Y00J42Yw?e=BhWfgT)
 ## Model Checkpoints
 
