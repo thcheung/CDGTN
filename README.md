@@ -8,3 +8,7 @@ The growth in social media has led to the increasing spread of unverified or fal
 The extended CR-Twitter can be downloaded below.
 
 - [Extended CR-Twitter Dataset](https://connectpolyu-my.sharepoint.com/:u:/g/personal/15083269d_connect_polyu_hk/ERlY9X3CA45MgSRsMSthreIB6KT1Cn7sNyEwQAHFJMsbWQ?e=isc9mG)
+
+## Model Checkpoints
+
+The model checkpoints can be found in the releases [here](https://github.com/thcheung/CDGTN/releases/tag/checkpoint).
