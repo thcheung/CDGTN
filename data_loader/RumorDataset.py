@@ -18,12 +18,8 @@ class RumorDataset(Dataset):
         self.language = language
         self.root = root
         self.max_length = max_length
-        # self.max_nodes = 128 ## Twitter15 / Twitter16
-        
-        if language == 'en':
-            self.max_nodes = 50 ## PHEME
-        else:
-            self.max_nodes = 128 if split == "train" else 100 ## Other than PHEME
+
+        self.max_nodes = 100
 
         self.textTokenizer = self._get_tokenizer()
 
