@@ -15,3 +15,21 @@ Extract the zip file and place the folder in preprocessed/CR_Twitter/
 The model checkpoints can be found in the releases [here](https://github.com/thcheung/CDGTN/releases/tag/checkpoint).
 
 Download the checkpoint and place it into folder checkpoints/CDGTN_CR_Twitter_0_0/
+
+## Citation
+
+Please cite our work if you found this project useful.
+
+```
+@article{CHEUNG2023110807,
+title = {Causal diffused graph-transformer network with stacked early classification loss for efficient stream classification of rumours},
+journal = {Knowledge-Based Systems},
+pages = {110807},
+year = {2023},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2023.110807},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705123005579},
+author = {Tsun-Hin Cheung and Kin-Man Lam},
+keywords = {Neural network, Natural language processing, Social computing, Rumour classification, Early detection},
+}
+```
